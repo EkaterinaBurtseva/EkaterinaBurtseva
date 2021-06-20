@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-[![EkaterinaBurtseva's GitHub stats](https://github-readme-stats.vercel.app/api?username=EkaterinaBurtseva)](https://github.com/anuraghazra/github-readme-stats)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=EkaterinaBurtseva&show_icons=true&count_private=true&include_all_commits=true&hide=stars)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EkaterinaBurtseva&layout=compact)
 
 
 <!--
