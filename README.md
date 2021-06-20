@@ -11,7 +11,7 @@ Also I'm fan of development - prefer to be involved in it using backend stack(Ja
 
 Get in touch:
 [![Linkedin Badge](https://img.shields.io/badge/-kateryna--burtseva-blue?style=flat&logo=Linkedin&logoColor=white&labelColor=blue&link=https://www.linkedin.com/in/kateryna-burtseva-31ba1092)](https://www.linkedin.com/in/kateryna-burtseva-31ba1092)
-[![Gmail Badge](https://img.shields.io/badge/-kateryna-burtseva-c14438?style=flat&logo=Gmail&logoColor=white&labelColor=c14438&link=mailto:burcevakate@gmail.com)](mailto:burcevakate@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-katerynab-c14438?style=flat&logo=Gmail&logoColor=white&labelColor=c14438&link=mailto:burcevakate@gmail.com)](mailto:burcevakate@gmail.com)
 
 <!--
 **EkaterinaBurtseva/EkaterinaBurtseva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
